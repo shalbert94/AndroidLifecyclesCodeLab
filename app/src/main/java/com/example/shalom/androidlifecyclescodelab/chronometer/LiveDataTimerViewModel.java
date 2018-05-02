@@ -1,4 +1,4 @@
-package com.example.shalom.androidlifecyclescodelab;
+package com.example.shalom.androidlifecyclescodelab.chronometer;
 
 import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.MutableLiveData;

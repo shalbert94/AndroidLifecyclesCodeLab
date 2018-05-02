@@ -1,4 +1,4 @@
-package com.example.shalom.androidlifecyclescodelab;
+package com.example.shalom.androidlifecyclescodelab.chronometer;
 
 import android.arch.lifecycle.Observer;
 import android.arch.lifecycle.ViewModelProviders;
@@ -7,6 +7,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
+
+import com.example.shalom.androidlifecyclescodelab.R;
 
 public class ChronoActivity extends AppCompatActivity {
     public static final String LOG_TAG = ChronoActivity.class.getSimpleName();

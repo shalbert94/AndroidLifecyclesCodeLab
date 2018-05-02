@@ -1,4 +1,4 @@
-package com.example.shalom.androidlifecyclescodelab;
+package com.example.shalom.androidlifecyclescodelab.location;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -11,6 +11,8 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.shalom.androidlifecyclescodelab.R;
 
 public class LocationActivity extends AppCompatActivity{
 

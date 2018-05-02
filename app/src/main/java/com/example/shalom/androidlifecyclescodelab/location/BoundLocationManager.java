@@ -1,4 +1,4 @@
-package com.example.shalom.androidlifecyclescodelab;
+package com.example.shalom.androidlifecyclescodelab.location;
 
 import android.arch.lifecycle.Lifecycle;
 import android.arch.lifecycle.LifecycleObserver;
