@@ -9,18 +9,18 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.shalom.androidlifecyclescodelab.seekbar.SeekBarActivity">
+    tools:context="com.example.shalom.androidlifecyclescodelab.SeekBarActivity">
 
     <fragment
         android:id="@+id/fragment1"
-        android:name="com.example.shalom.androidlifecyclescodelab.seekbar.SeekBarFragment"
+        android:name="com.example.shalom.androidlifecyclescodelab.SeekBarFragment"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"/>
 
     <fragment
         android:id="@+id/fragment2"
-        android:name="com.example.shalom.androidlifecyclescodelab.seekbar.SeekBarFragment"
+        android:name="com.example.shalom.androidlifecyclescodelab.SeekBarFragment"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"/>
